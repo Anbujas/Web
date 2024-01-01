@@ -10,7 +10,7 @@ import Navigationbar from './Navigationbar';
 function App() {
   return (
     
-      
+    
       <div className="App">
         <Navigationbar />
        <CarouselPage />
